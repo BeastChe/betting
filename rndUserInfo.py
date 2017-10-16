@@ -1035,7 +1035,6 @@ def generate_random_nic():
   'Workman',
   'Wright',
   'Wyatt',
-  'Wynn',
   'Yang',
   'Yates',
   'York',
